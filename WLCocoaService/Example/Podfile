@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WLCocoaService_Tests' do
+  pod 'WLCocoaService', :path => '../'
+  
+  
+end

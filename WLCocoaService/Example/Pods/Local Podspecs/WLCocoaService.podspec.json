@@ -1,0 +1,22 @@
+{
+  "name": "WLCocoaService",
+  "version": "0.1.0",
+  "summary": "A short description of WLCocoaService.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/王拉拉/WLCocoaService",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "王拉拉": "wanglala397@hellobike.com"
+  },
+  "source": {
+    "git": "https://github.com/王拉拉/WLCocoaService.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WLCocoaService/Classes/**/*"
+}

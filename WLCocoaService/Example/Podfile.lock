@@ -1,0 +1,16 @@
+PODS:
+  - WLCocoaService (0.1.0)
+
+DEPENDENCIES:
+  - WLCocoaService (from `../`)
+
+EXTERNAL SOURCES:
+  WLCocoaService:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WLCocoaService: 39ae6c3cf9f3affbbc82a9058097680d8f0bb8b0
+
+PODFILE CHECKSUM: 44757586b65797752df27a622ffc42bd257175b2
+
+COCOAPODS: 1.10.0
